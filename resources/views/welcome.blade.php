@@ -47,7 +47,7 @@
 
                 </div>
             </div>
-            <embed width="100%" height="600px" src="{{url('/p/stephenking.pdf')}}" type="application/pdf"></embed>
+            <iframe width="100%" height="600px" src="{{url('/p/stephenking.pdf')}}"></iframe>
         </div>
     </section>
 
