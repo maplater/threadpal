@@ -47,7 +47,7 @@
 
                 </div>
             </div>
-            <iframe width="100%" height="600px" src="{{url('/p/stephenking.pdf')}}"></iframe>
+            <object width="100%" height="600px" data="{{url('/p/stephenking.pdf')}}" type="application/pdf"><a href="{{url('/p/stephenking.pdf')}}" target="_blank">Stephen King Report</a></a></object>
         </div>
     </section>
 
