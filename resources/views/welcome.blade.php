@@ -44,8 +44,8 @@
                     <h2 class="section-heading">Example Report: "Stephen King"</h2>
                     <p class="text-faded">Get an audience breakdown for any brand or company.  Including Gender, Age, Income, Ethnicity, Education, Relationships, Sexuality, Home Ownership, Parenting, Politics, Mobile OS, Buyer Profile, Store Type, Travel, Entertainment, Fitness, Food & Drink, Sports</p>
                     <hr class="light">
-                    <object width="100%" height="600px" data="{{url('/p/stephenking.pdf')}}" type="application/pdf"><a href="{{url('/p/stephenking.pdf')}}" target="_blank"><h3><span style="color:white">Stephen King Report</span></h3></a></object>
-                    
+                    <object width="100%" height="600px" data="{{url('/p/stephenking.pdf')}}" type="application/pdf"><a href="{{url('/p/stephenking.pdf')}}" target="_blank"><h3><span style="color:white">Go to<br/>Stephen King Report</span></h3></a></object>
+
                 </div>
             </div>
 
