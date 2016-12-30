@@ -57,7 +57,7 @@
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
 
 
-    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="MmM2OWE3MDQtMWRhOS00NTI1LTlmMTMtYWQ1YWM0ZjY2NmIwNjM2MTgyMjIwNTAwODU2MDI3"></script>
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="Y2Y3MTcwMGItYTk1MC00YmM0LWFlZjAtODU2YmQxMzM0OWMzNjM2MTgyMjIwNTAwODU2MDI3"></script>
 
 
 
