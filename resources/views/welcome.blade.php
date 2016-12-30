@@ -47,7 +47,7 @@
 
                 </div>
             </div>
-            <object width="100%" height="600px" data="{{url('/p/stephenking.pdf')}}" type="application/pdf"><a href="{{url('/p/stephenking.pdf')}}" target="_blank">Stephen King Report</a></a></object>
+            <object width="100%" height="600px" data="{{url('/p/stephenking.pdf')}}" type="application/pdf"><a href="{{url('/p/stephenking.pdf')}}" target="_blank"><h3>Stephen King Report</h3></a></object>
         </div>
     </section>
 
